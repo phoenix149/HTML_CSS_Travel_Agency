@@ -99,7 +99,7 @@ header nav ul li a {
 
 #main_image {
     height: 580px;
-    background: url('/images/main.jpg') center;
+    background: url('./images/main.jpg') center;
 }
 
 #main_image h2 {
@@ -153,11 +153,11 @@ header nav ul li a {
 }
 
 #step-1 {
-    background: url('/images/steps-icon-1.png') no-repeat top center;
+    background: url('./images/steps-icon-1.png') no-repeat top center;
 }
 
 #step-2 {
-    background: url('/images/steps-icon-2.png') no-repeat top center;
+    background: url('./images/steps-icon-2.png') no-repeat top center;
 }
 
 #step-3 {
@@ -170,7 +170,7 @@ header nav ul li a {
     float: left;
     width: 460px;
     height: 270px;
-    background: url('/images/article-image-1.jpg');
+    background: url('./images/article-image-1.jpg');
     border-radius: 10px;
     margin-right: 20px;
 }
@@ -179,7 +179,7 @@ header nav ul li a {
     float: left;
     width: 460px;
     height: 270px;
-    background: url('/images/article-image-2.jpg');
+    background: url('./images/article-image-2.jpg');
     border-radius: 10px;
 }
 
